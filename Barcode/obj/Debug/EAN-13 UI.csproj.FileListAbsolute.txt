@@ -1,0 +1,13 @@
+C:\Users\Саша\source\repos\Barcode\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\Саша\source\repos\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\Саша\source\repos\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Саша\source\repos\Barcode\Barcode\bin\Debug\BarcodesLib.dll
+C:\Users\Саша\source\repos\Barcode\Barcode\bin\Debug\BarcodesLib.pdb
+C:\Users\Саша\source\repos\Barcode\Barcode\obj\Debug\EAN-13 UI.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\Barcode\Barcode\obj\Debug\Barcode.MainWindow.resources
+C:\Users\Саша\source\repos\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\Саша\source\repos\Barcode\Barcode\obj\Debug\EAN-13 UI.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\Barcode\Barcode\obj\Debug\EAN-13 UI.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\Barcode\Barcode\obj\Debug\EAN-13 UI.csproj.CopyComplete
+C:\Users\Саша\source\repos\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\Саша\source\repos\Barcode\Barcode\obj\Debug\Barcode.pdb

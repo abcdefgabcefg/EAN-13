@@ -1,0 +1,6 @@
+C:\Users\Саша\source\repos\Barcode\BarcodesLib\bin\Debug\BarcodesLib.dll
+C:\Users\Саша\source\repos\Barcode\BarcodesLib\bin\Debug\BarcodesLib.pdb
+C:\Users\Саша\source\repos\Barcode\BarcodesLib\obj\Debug\BarcodesLib.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\Barcode\BarcodesLib\obj\Debug\BarcodesLib.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\Barcode\BarcodesLib\obj\Debug\BarcodesLib.dll
+C:\Users\Саша\source\repos\Barcode\BarcodesLib\obj\Debug\BarcodesLib.pdb

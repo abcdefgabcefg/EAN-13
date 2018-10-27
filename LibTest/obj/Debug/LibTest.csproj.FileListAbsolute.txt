@@ -1,0 +1,10 @@
+C:\Users\Саша\source\repos\Barcode\LibTest\bin\Debug\LibTest.exe.config
+C:\Users\Саша\source\repos\Barcode\LibTest\bin\Debug\LibTest.exe
+C:\Users\Саша\source\repos\Barcode\LibTest\bin\Debug\LibTest.pdb
+C:\Users\Саша\source\repos\Barcode\LibTest\bin\Debug\BarcodesLib.dll
+C:\Users\Саша\source\repos\Barcode\LibTest\bin\Debug\BarcodesLib.pdb
+C:\Users\Саша\source\repos\Barcode\LibTest\obj\Debug\LibTest.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\Barcode\LibTest\obj\Debug\LibTest.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\Barcode\LibTest\obj\Debug\LibTest.csproj.CopyComplete
+C:\Users\Саша\source\repos\Barcode\LibTest\obj\Debug\LibTest.exe
+C:\Users\Саша\source\repos\Barcode\LibTest\obj\Debug\LibTest.pdb
